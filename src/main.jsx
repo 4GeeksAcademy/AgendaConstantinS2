@@ -7,6 +7,7 @@ import { StoreProvider } from './hooks/useGlobalReducer';  // Import the StorePr
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
+
 const Main = () => {
     return (
         <React.StrictMode>  
